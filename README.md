@@ -27,6 +27,8 @@
   For any questions or to discuss this project further, please reach out at amber.rain.phillips@gmail.com or Aphillip22
 
   # Images
+  ![image](https://user-images.githubusercontent.com/87291933/146758698-fd6bbf6d-e083-458d-b200-9ebeff68767c.png)  
+  ![image](https://user-images.githubusercontent.com/87291933/146758784-bc30baeb-5032-448b-ad2c-d95abcffa205.png)
 
   # Links
   Github: https://github.com/Aphillip22/budget-tracker.git
