@@ -20,6 +20,8 @@
   PWA  
   Service Workers  
   MongoDB  
+  MongoDB Atlas
+  Heroku
 
   # Contact
   For any questions or to discuss this project further, please reach out at amber.rain.phillips@gmail.com or Aphillip22
